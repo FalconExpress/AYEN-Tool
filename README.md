@@ -32,3 +32,10 @@ Ayen-Tool is the most powerful free Discord-Tool out there
 
 Me and my team do not promote any illegal activities, this tool was made for testing and educational purposes only.
 This tool was made to test out on yourself and study how these things work.
+It is important to respect peoples private life and private data.
+
+# Setup
+
+1. Go into terminal and type "pip install -r requirements"
+2. Open Ayen and input your targets token
+3. Once Inputted, a menu with over 20 tool will appear (Tools:)
