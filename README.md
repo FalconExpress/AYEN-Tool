@@ -1,5 +1,6 @@
 # Ayen-Tool
 
+# REQUIRES PYTHON 3.9 !!!
 Ayen-Tool is the most powerful free Discord-Tool out there
 
 
